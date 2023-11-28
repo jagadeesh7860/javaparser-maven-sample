@@ -27,12 +27,13 @@
             <version>3.25.6</version>
         </dependency>
 
-             <!-- https://mvnrepository.com/artifact/org.codehaus.sonar/sonar-maven3-plugin -->
+<!-- https://mvnrepository.com/artifact/org.codehaus.sonar/sonar-maven-plugin -->
 <dependency>
     <groupId>org.codehaus.sonar</groupId>
-    <artifactId>sonar-maven3-plugin</artifactId>
-    <version>3.6.3</version>
+    <artifactId>sonar-maven-plugin</artifactId>
+    <version>3.3.2</version>
 </dependency>
+
 
 
 
